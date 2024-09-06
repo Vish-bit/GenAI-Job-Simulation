@@ -10,11 +10,11 @@ I worked on a project to develop an AI-powered financial chatbot. I practiced us
 Doing this program confirmed that I enjoy working on translating complex financial data into accessible insights through AI, and I'm excited to apply these skills on a GenAI Consulting team at a company like BCG.
 
 ## By achieving a certificate of completion I gain following skills:
-CHATBOT DEVELOPMENT
-DATA EXTRACTION
-EXCEL
-FINANCIAL ANALYSIS
-JUPYTER
-LOGIC
-NLP
+CHATBOT DEVELOPMENT,
+DATA EXTRACTION,
+EXCEL,
+FINANCIAL ANALYSIS,
+JUPYTER,
+LOGIC,
+NLP,
 PYTHON
